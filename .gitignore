@@ -29,5 +29,6 @@ out/
 # Secrets and sensitive information
 .env
 application-*.yml
+application.yml
 application-*.properties
 src/main/resources/application.yaml
